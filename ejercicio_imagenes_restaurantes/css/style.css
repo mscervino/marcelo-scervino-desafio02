@@ -1,0 +1,22 @@
+body{
+    background-color: #289688;
+    text-align: center;
+    margin-bottom: 600px;
+}
+
+body img{
+    margin: 1px;
+}
+
+h1{
+    color: #fcea3e;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+.marco {
+    border: 6px solid #ffffff;
+}
